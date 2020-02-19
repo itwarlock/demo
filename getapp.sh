@@ -39,6 +39,7 @@ function download_app_from_github ()
     wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/IOS_Shadowrocket_2.1.12.ipa
     wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/Kitsunebi.ipa
     wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/Shadowrocket-2.1.11.ipa
+    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/app.html
     echo "下载完成"
     menu
 }
@@ -51,6 +52,7 @@ function download_app_from_github ()
     wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/IOS_Shadowrocket_2.1.12.ipa
     wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/Kitsunebi.ipa
     wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/Shadowrocket-2.1.11.ipa
+    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/app.html
     echo "下载完成"
     menu
 }
