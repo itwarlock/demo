@@ -1,6 +1,6 @@
 #!/bin/sh
 #Shell菜单演示
-# wget https://raw.githubusercontent.com/itwarlock/demo/master/getapp.sh
+#wget https://raw.githubusercontent.com/itwarlock/demo/master/getapp.sh
 function menu ()
 {
     cat << EOF
