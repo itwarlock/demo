@@ -6,19 +6,19 @@ function menu ()
 ----------------------------------------
 |***************菜单主页***************|
 ----------------------------------------
-`echo -e "\033[35m 1. 电子设备\033[0m"`
-`echo -e "\033[35m 2. 车辆信息\033[0m"`
+`echo -e "\033[35m 1. 从 github 下载常用客户端app到nginx的 html目录 /usr/share/nginx/html \033[0m"`
+`echo -e "\033[35m 2. 从 gitee  下载常用客户端app到nginx的 html目录 /usr/share/nginx/html \033[0m"`
 `echo -e "\033[35m 3. 主菜单\033[0m"`
 `echo -e "\033[35m 4. 退出\033[0m"`
 EOF
 read -p "请输入对应数字：" num1
 case $num1 in
     1)
-      echo "从github下载常用客户端app到nginx的 html目录 /usr/share/nginx/html"
+      echo "从 github 下载常用客户端app到nginx的 html目录 /usr/share/nginx/html"
       download_app_from_github
       ;;
     2)
-      echo "从github下载常用客户端app到nginx的 html目录 /usr/share/nginx/html"
+      echo "从 gitee 下载常用客户端app到nginx的 html目录 /usr/share/nginx/html"
       download_app_from_gitee
       ;;
     3)
