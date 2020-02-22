@@ -34,15 +34,15 @@ esac
 function download_app_from_github ()
 {
     cd  /usr/share/nginx/html
-    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/ssr-3.4.0.8.apk
-    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/ssr_3.4.0.6.apk
-    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/ssr_3.5.4.apk
-    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/Kitsunebi_v1.8.apk
-    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/v2rayNG_1.1.15.apk
-    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/IOS_Shadowrocket_2.1.12.ipa
-    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/Kitsunebi.ipa
-    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/Shadowrocket-2.1.11.ipa
-    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/app.html
+    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/ssr-3.4.0.8.apk -O ssr-3.4.0.8.apk
+    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/ssr_3.4.0.6.apk -O ssr-3.4.0.8.apk
+    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/ssr_3.5.4.apk -O ssr-3.4.0.8.apk
+    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/Kitsunebi_v1.8.apk -O Kitsunebi_v1.8.apk
+    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/v2rayNG_1.1.15.apk -O v2rayNG_1.1.15.apk
+    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/IOS_Shadowrocket_2.1.12.ipa -O IOS_Shadowrocket_2.1.12.ipa
+    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/Kitsunebi.ipa -O Kitsunebi.ipa
+    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/Shadowrocket-2.1.11.ipa -O Shadowrocket-2.1.11.ipa
+    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/app.html -O app.html
     echo "下载完成"
     menu
 }
@@ -50,15 +50,15 @@ function download_app_from_github ()
 function download_app_from_github ()
 {
     cd  /usr/share/nginx/html
-    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/ssr-3.4.0.8.apk
-    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/ssr_3.4.0.6.apk
-    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/ssr_3.5.4.apk
-    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/Kitsunebi_v1.8.apk
-    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/v2rayNG_1.1.15.apk
-    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/IOS_Shadowrocket_2.1.12.ipa
-    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/Kitsunebi.ipa
-    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/Shadowrocket-2.1.11.ipa
-    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/app.html
+    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/ssr-3.4.0.8.apk -O ssr-3.4.0.8.apk
+    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/ssr_3.4.0.6.apk -O ssr-3.4.0.8.apk
+    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/ssr_3.5.4.apk -O ssr-3.4.0.8.apk
+    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/Kitsunebi_v1.8.apk -O Kitsunebi_v1.8.apk
+    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/v2rayNG_1.1.15.apk -O v2rayNG_1.1.15.apk
+    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/IOS_Shadowrocket_2.1.12.ipa -O IOS_Shadowrocket_2.1.12.ipa
+    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/Kitsunebi.ipa -O Kitsunebi.ipa
+    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/Shadowrocket-2.1.11.ipa -O Shadowrocket-2.1.11.ipa
+    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/app.html -O app.html
     echo "下载完成"
     menu
 }
