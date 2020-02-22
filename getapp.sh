@@ -34,6 +34,9 @@ esac
 function download_app_from_github ()
 {
     cd  /usr/share/nginx/html
+    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/ssr-3.4.0.8.apk
+    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/ssr_3.4.0.6.apk
+    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/ssr_3.5.4.apk
     wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/Kitsunebi_v1.8.apk
     wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/v2rayNG_1.1.15.apk
     wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/IOS_Shadowrocket_2.1.12.ipa
@@ -47,6 +50,9 @@ function download_app_from_github ()
 function download_app_from_github ()
 {
     cd  /usr/share/nginx/html
+    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/ssr-3.4.0.8.apk
+    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/ssr_3.4.0.6.apk
+    wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/ssr_3.5.4.apk
     wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/Kitsunebi_v1.8.apk
     wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/v2rayNG_1.1.15.apk
     wget  https://raw.githubusercontent.com/itwarlock/demo/master/app/IOS_Shadowrocket_2.1.12.ipa
