@@ -1,6 +1,8 @@
 
 腳本1
 ```
+wget https://raw.githubusercontent.com/johnrosen1/trojan-gfw-script/master/vps.sh
+
 wget https://raw.githubusercontent.com/itwarlock/demo/master/getapp.sh
 ```
  
